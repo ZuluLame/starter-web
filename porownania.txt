@@ -1,2 +1,4 @@
 Pierwsza linijka jest w originie
 Druga linia jest zakomitowana
+Trzecia linia zastagowana
+Czwarta linia tylko zapisana
